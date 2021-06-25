@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Banghyungjin
-- 👀 I’m interested in python & Cpp & Java
+- 👀 I’m can use C++, Java, Kotlin, Python
 - 🌱 I’m currently learning AI stuffs using python modules
 - 💞️ I’m looking to collaborate on projects that have some programmers who can teach me
 - 📫 You can reach me by banghyungjin@gmail.com
