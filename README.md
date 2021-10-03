@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Banghyungjin
-- 👀 I’m can use C++, Java, Kotlin, Python
-- 🌱 I’m currently learning AI stuffs using python modules
-- 💞️ I’m looking to collaborate on projects that have some programmers who can teach me
-- 📫 You can reach me by banghyungjin@gmail.com
+# HyungJin (Kylo) Bang
+
+Software Engineer at Lam Research Korea
+
+Available Language : C++, Java, Kotlin, Python, SmallTalk
+
+Email : Banghyungjin@gmail.com
+
 
 <!---
 Banghyungjin/Banghyungjin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
