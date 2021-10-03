@@ -1,6 +1,6 @@
 # HyungJin (Kylo) Bang
 
-Software Engineer at Lam Research Korea
+**Software Engineer** at Lam Research Korea
 
 Available Language : C++, Java, Kotlin, Python, SmallTalk
 
