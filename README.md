@@ -1,4 +1,4 @@
-# HyungJin (Kylo) Bang
+# HyungJin Bang
 
 **Software Engineer** at Lam Research Korea since 2021
 
